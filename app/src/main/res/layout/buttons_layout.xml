@@ -9,7 +9,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:columnCount="4"
-        android:rowCount="5">
+        android:rowCount="6">
 
         <com.google.android.material.button.MaterialButton
             android:id="@+id/toolbar"
